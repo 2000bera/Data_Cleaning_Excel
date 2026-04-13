@@ -78,11 +78,11 @@ The original dataset had multiple issues:
 * Consistent formatting across all columns
 * Ready for data analysis and visualization
 
-# Raw Data
+## Raw Data
 
 <img width="1246" height="481" alt="image" src="https://github.com/user-attachments/assets/9a621f42-ae16-4126-94bb-45acf95cbace" />
 
-# Clean Data
+## Clean Data
 
 <img width="1333" height="478" alt="image" src="https://github.com/user-attachments/assets/8f311b9d-b0da-437f-835c-2049406098c8" />
 
