@@ -90,6 +90,7 @@ The original dataset had multiple issues:
 
 ```
  Data-Cleaning-Project
+ ┣  data
  ┣  finance(two dataset: sheet 1 - raw data, sheet 2 - clean data).csv
  ┗  README.md
 ```
