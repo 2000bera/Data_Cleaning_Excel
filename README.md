@@ -4,8 +4,6 @@
 
 This project focuses on **cleaning a messy financial dataset** and transforming it into a structured format that is ready for analysis and visualization.
 
-The goal of this project is to practice real-world **data cleaning skills**, which is one of the most important tasks in data analysis.
-
 ---
 
 ## Objectives
@@ -13,7 +11,6 @@ The goal of this project is to practice real-world **data cleaning skills**, whi
 * Identify and fix data quality issues
 * Standardize formats (dates, currency, text)
 * Handle missing and incorrect values
-* Prepare the dataset for analysis
 
 ---
 
@@ -54,7 +51,7 @@ The original dataset had multiple issues:
 
 ### 1. Data Collection
 
-* Loaded the dataset into the analysis tool (Ms Excel)
+* Loaded the dataset into Ms Excel
 
 ### 2. Data Cleaning
 
@@ -67,7 +64,7 @@ The original dataset had multiple issues:
 
 * Renamed columns for clarity
 * Standardized currency to ZAR
-* Formatted numerical values (e.g., currency format)
+* Formatted numerical values
 * Ensured consistency across all fields
 
 ---
